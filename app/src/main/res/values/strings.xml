@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ingenio</string>
+    <string name="title_activity_caratula_page">CaratulaPage</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_car_page">CarPage</string>
+</resources>
