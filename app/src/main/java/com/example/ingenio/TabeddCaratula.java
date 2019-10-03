@@ -26,6 +26,8 @@ public class TabeddCaratula extends AppCompatActivity {
 
         prefs = getSharedPreferences("Preferences", Context.MODE_PRIVATE);
 
+        //Cambios pertinenetes
+
 
         setContentView(R.layout.activity_tabedd_caratula);
 
