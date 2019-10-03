@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
                 PassStr = editPassword.getText().toString();
                 if(UsuStr.isEmpty() || PassStr.isEmpty())
                 {
-                    Toast.makeText(MainActivity.this, "Ingresa el usuario y la contraseña por favor", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Holis!!", Toast.LENGTH_SHORT).show();
                 }
                 else
                 {
