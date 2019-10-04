@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
         btnLlamar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 String numerotel = "7441815264";//llamar.getText().toString();
                     String llamarA = "tel:" + numerotel;
                     startActivity(new Intent(Intent.ACTION_DIAL, Uri.parse(llamarA)));
